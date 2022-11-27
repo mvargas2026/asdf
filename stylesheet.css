@@ -1,0 +1,162 @@
+            body {
+                width: 1500px;
+                background-color: #fff5bf;
+                font-family:'Varela Round';
+                margin: 0;
+                color: #563424;
+            }
+            .navi {
+                background-color: #966551;
+                margin-top: -50px;
+                padding: 0px;
+                position: fixed;
+                width: 100%;
+            }
+            .a {
+                background-color: #966551;
+                margin-top: 0px;
+                padding: 0px;
+                position: fixed;
+                width: 100%;
+            }
+            .b {
+            background-color: #966551;
+            margin-top: -25px;
+            padding: 0px;
+            position: fixed;
+            width: 100%;
+            }
+            ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 0px;
+                text-align: right;
+                overflow: hidden;
+                }
+            li{
+                float: right;
+                margin: 5px;
+            }
+            li a {
+                text-decoration: none;
+                color: rgb(27, 22, 20);
+            	text-align: right;
+                padding: 0px 45px;
+                font-size: 40px;
+                display: inline;
+            }
+            .title {
+                float: left;
+                margin-left: -20px;
+                font-size: 40px;
+                font-family: 'Dancing Script', cursive;
+            }
+            .pic-tsugu {
+                width: 290.95px;
+            }
+            .tsugu {
+                margin-left: 200px;
+                float: left;
+                background-color: #FFEE88;
+                border-top-left-radius: 15px;
+                border-top-right-radius: 15px;
+            }
+            .tsugu-t {
+                font-size: 30px;
+                text-align: center;
+                position: static;
+                line-height: 0.1;
+                background-color: #FFEE88;
+                border: solid 5px #FFEE88;
+                border-bottom-left-radius: 15px;
+                border-bottom-right-radius: 15px;
+            }
+            .pic-saya {
+                width:290.95px;     
+            }
+            .saaya {
+                margin-left: 400px;
+                margin-bottom: 50px;
+                float: left;
+                background-color: #FFCC11;
+                border-top-left-radius: 15px;
+                border-top-right-radius: 15px;
+            }
+            .saaya-t{
+                font-size: 30px;
+                text-align: center;
+                position: static;
+                line-height: 0.1;
+                background-color: #FFCC11;
+                border: solid 5px #FFCC11;
+                border-bottom-left-radius: 15px;
+                border-bottom-right-radius: 15px;
+            }
+            .pic-eve {
+                width: 290.95px;     
+            }
+            .eve {
+                margin-left: 200px;
+                float: left;
+                background-color: #DDBBFF;
+                border-top-left-radius: 15px;
+                border-top-right-radius: 15px;
+            }
+            .eve-t{
+                font-size: 30px;
+                text-align: center;
+                position: static;
+                line-height: 0.1;
+                background-color: #DDBBFF;
+                border: solid 5px #DDBBFF;
+                border-bottom-left-radius: 15px;
+                border-bottom-right-radius: 15px;
+            }
+            .pic-tsukushi {
+                width: 290.95px;     
+            }
+            .tsukushi {
+                margin-left: 400px;
+                float: left;
+                background-color: #EE7788;
+                border-top-left-radius: 15px;
+                border-top-right-radius: 15px;
+            }
+            .tsukushi-t{
+                font-size: 30px;
+                text-align: center;
+                position: static;
+                line-height: 0.1;
+                background-color: #EE7788;
+                border: solid 5px #EE7788;
+                border-bottom-left-radius: 15px;
+                border-bottom-right-radius: 15px;
+            }
+            footer {
+                position: static;
+                margin-top: 1100px;
+            }
+            .about {
+                position: static;
+                margin-top: 50px;
+            }
+            .emp {
+                position: static;
+                margin-top: 50px;
+            }
+            video {
+                margin-top: 75px;
+                margin-left: 500px;
+            }
+            .pastries {
+            	float: right;
+            	position: static;
+            	margin-right: 100px;
+            }
+            .coffee {
+            	float: left;
+            	position: static;
+            	margin-left: 100px;
+            }
+            
+            
